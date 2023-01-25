@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm G2.</br>
-Full-Stack Web3 Developer 👨🏽‍💻 + Founder/CEO of Creative Organization DAO LLC 🏢 = Blockchain Innovator 💡</h1>
+<h1 align="center">Hi there 👋, I'm G2</h1>
+<h3Full-Stack Web3 Developer 👨🏽‍💻 + Founder/CEO of Creative Organization DAO LLC 🏢 = Blockchain Innovator 💡</h3>
 <h3 align="center">I am a passionate developer with various levels of experience and expertise, but most of ALL I love blockchain technolgy!!</h3>
 
 - 🔭 I’m currently working on [The Creative Organization DAO, LLC.](https://blog.creativeplatform.xyz) 
