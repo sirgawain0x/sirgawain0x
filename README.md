@@ -12,8 +12,9 @@ Full-Stack Web3 Developer 👨🏽‍💻 + Founder/CEO of Creative Organization
 
 - 💬 Ask me about how to claim a POAP from me 🏅
 
-- <p align="left"> <a href="https://twitter.com/creativecrtv" target="blank"><img src="https://img.shields.io/twitter/follow/creativecrtv?logo=twitter&style=for-the-badge" alt="creativecrtv" /></a>
-</p>
+- <p align="left"> <a href="https://twitter.com/creativecrtv" target="blank"><img src="https://img.shields.io/twitter/follow/creativecrtv?logo=twitter&style=for-the-badge" alt="creativecrtv" /></a></p>
+
+## POAP Badges Earned
 
 <p><a href="https://www.gitpoap.io/gp/667"><img src="https://assets.poap.xyz/gitpoap3a-2021-snapshot-strategies-contributor-2022-logo-1668628366416.png"  alt="poap" height="150" width="150"></a>  <a href="https://www.gitpoap.io/gp/668"><img src="https://assets.poap.xyz/gitpoap3a-2022-snapshot-strategies-contributor-2022-logo-1668628369563.png"  alt="poap" height="150" width="150"></a>  <a href="https://www.gitpoap.io/gp/938"><img src="https://assets.poap.xyz/early-adopter-first-12c000-gitpoap-holders-2023-logo-1673407556271.png"  alt="poap" height="150" width="150"></a>  
 </p>
