@@ -12,6 +12,14 @@
 
 - 💬 Ask me about how to claim a POAP from me 🏅
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sirgawainnft" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="g2entgroup" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gawain-bracy-ii-21a765143/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="g2entgroup" height="30" width="40" /></a>
+<a href="https://instagram.com/creativecrtv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="g2entgroup" height="30" width="40" /></a>
+<a href="https://discord.gg/5GeeZykgm4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Creative Discord" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">POAP Badges Earned:</h3>
 
 <p>
@@ -34,14 +42,6 @@
   </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sirgawainnft" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="g2entgroup" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gawain-bracy-ii-21a765143/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="g2entgroup" height="30" width="40" /></a>
-<a href="https://instagram.com/creativecrtv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="g2entgroup" height="30" width="40" /></a>
-<a href="https://discord.gg/5GeeZykgm4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Creative Discord" height="30" width="40" /></a>
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=1490181)
