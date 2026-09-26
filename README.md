@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [The Creative Organization DAO, LLC.](https://blog.creativeplatform.xyz) 
 
-- 👯 I’m looking to collaborate on [The Creative Platforms](https://github.com/creativeplatform) <img src="https://komarev.com/ghpvc/?username=g2entgroup&label=Our%20%E2%9D%A4%20Count&color=e50068&style=flat" alt="g2entgroup" />
+- 👯 I’m looking to collaborate on [The Creative Platform](https://github.com/creativeplatform) <img src="https://komarev.com/ghpvc/?username=g2entgroup&label=Our%20%E2%9D%A4%20Count&color=e50068&style=flat" alt="g2entgroup" />
 
 - 🤔 I’m looking for help with React frontend, Typescript, GraphQL, Solidty, C++
 
